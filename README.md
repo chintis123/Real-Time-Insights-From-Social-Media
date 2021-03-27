@@ -9,13 +9,13 @@ Warning: Some of the tweets in the Twitter datasets contain explicit language.
 
 Project Tasks
 
-Local and global thought patterns
-Prettifying the output
-Finding common trends
-Exploring the hot trend
-Digging deeper
-Frequency analysis
-Activity around the trend
-A table that speaks a 1000 words
-Analyzing used languages
-Final thoughts
+ 1. Local and global thought patterns
+ 2. Prettifying the output
+ 3. Finding common trends
+ 4. Exploring the hot trend
+ 5. Digging deeper
+ 6. Frequency analysis
+ 7. Activity around the trend
+ 8. A table that speaks a 1000 words
+ 9. Analyzing used languages
+10. Final thoughts
